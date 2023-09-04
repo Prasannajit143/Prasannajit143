@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasannajit143
 - 👀 I’m interested in Python, Django 
-- 🌱 I’m currently Working as a Web Development
+- 🌱 I’m currently Working as a Web Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
